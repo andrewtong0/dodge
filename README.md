@@ -3,7 +3,7 @@ A simple phone game where you need to dodge through gaps in oncoming walls
 
 I had some issues with the .exe/.apk exports as my antivirus would quarantine the file. If you experience the same issue and would still like to view the project, I encourage you to check out my short YouTube video on it here:
 
-https://www.youtube.com/watch?v=__yfW2rXVnI&feature=youtu.be
+[![Demo Video](https://i.imgur.com/cn1Pr8B.png)](https://www.youtube.com/watch?v=__yfW2rXVnI&feature=youtu.be)
 
 ## Controls
 .exe version
